@@ -1,0 +1,48 @@
+.blue {
+  background-color: blue;
+  height:200px;
+}
+.red{
+  background-color: red;
+  height: 200px;
+}
+.yellow{
+  background-color: yellow;
+  height: 300px;
+}
+.black{
+  background-color: black;
+  height: 400px;
+}
+.green{
+  background-color: green;
+  height: 250px;
+}
+.sky{
+  background-color: #CCEEFF;
+  height: 150px;
+}
+.orange{
+  background-color: #F0941B;
+  height: 120px;
+}
+.pink{
+  background-color: #F6CEF5;
+  height: 120px;
+}
+.newora{
+  background-color: #FACC2E;
+  height: 120px;
+}
+.newblu{
+  background-color: #2E9AFE;
+  height: 120px;
+}
+.newred{
+  background-color: #FE2E2E;
+  height: 120px;
+}
+.newgre{
+  background-color: #40FF00;
+  height: 120px;
+}
